@@ -1,2 +1,2 @@
 # HelloFlaskWorld
-Simple Flask Application Deployment
+Simple flask application for GCP automated deployment example.
